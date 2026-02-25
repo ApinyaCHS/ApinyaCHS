@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ApinyaCHS/ApinyaCHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **AI Software Engineer** and a **master’s student in Computer Engineering** at **Chulalongkorn University**, Bangkok, Thailand.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🤖 Interested in **AI system development** and practical deployment
+* 🛰️ Focused on **short-term weather forecasting**
+* ⚖️ Building **LLM chatbots** for **any** domain-specific applications
+* 🛰️ Interested in **geospatial AI / remote sensing**
+* 🛠️ I enjoy working across the full pipeline: **data → modeling → evaluation → deployment**
+
+## Current Focus
+
+* LLM-based in-house document understanding and chatbot systems
+* Building reliable AI workflows for real-world use cases
+
+## Tech Stack
+
+* **Languages:** Python, SQL, JavaScript (basic)
+* **AI/ML:** PyTorch, scikit-learn
+* **LLM/AI Apps:** FastAPI, LangChain / RAG pipelines, vector databases, LangGraph, vllm (Inference Server)
+* **Data & Tools:** Pandas, NumPy, OpenCV, Docker, Git
+* **Geospatial / RS:** Raster data processing, remote sensing workflows
+
+## Projects I'm Interested In
+
+* Geospatial foundation models / Earth observation AI
+* AI assistants (document QA, summarization, retrieval)
+* AI systems for public-sector and real-world operations
+
+---
+
+⭐️ Feel free to explore my repositories and connect if you’re interested in collaborating on AI, geospatial, or specific-domain LLM projects.
+
